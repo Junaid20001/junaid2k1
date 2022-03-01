@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolioo/static/css/main.42f96c1a.chunk.css",
+    "main.js": "/portfolioo/static/js/main.43a3cdf9.chunk.js",
+    "main.js.map": "/portfolioo/static/js/main.43a3cdf9.chunk.js.map",
+    "runtime-main.js": "/portfolioo/static/js/runtime-main.dbe20b59.js",
+    "runtime-main.js.map": "/portfolioo/static/js/runtime-main.dbe20b59.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/portfolioo/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.442b5ec7.chunk.js": "/portfolioo/static/js/2.442b5ec7.chunk.js",
+    "static/js/2.442b5ec7.chunk.js.map": "/portfolioo/static/js/2.442b5ec7.chunk.js.map",
+    "static/js/3.eae24763.chunk.js": "/portfolioo/static/js/3.eae24763.chunk.js",
+    "static/js/3.eae24763.chunk.js.map": "/portfolioo/static/js/3.eae24763.chunk.js.map",
+    "index.html": "/portfolioo/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/portfolioo/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.42f96c1a.chunk.css.map": "/portfolioo/static/css/main.42f96c1a.chunk.css.map",
+    "static/js/2.442b5ec7.chunk.js.LICENSE.txt": "/portfolioo/static/js/2.442b5ec7.chunk.js.LICENSE.txt",
+    "static/media/Junaid-Resume.0b43165e.pdf": "/portfolioo/static/media/Junaid-Resume.0b43165e.pdf",
+    "static/media/about.aee0f771.png": "/portfolioo/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/portfolioo/static/media/avatar.5852f40f.svg",
+    "static/media/blog.52102140.png": "/portfolioo/static/media/blog.52102140.png",
+    "static/media/chatify.9373edda.png": "/portfolioo/static/media/chatify.9373edda.png",
+    "static/media/codeEditor.ba945879.png": "/portfolioo/static/media/codeEditor.ba945879.png",
+    "static/media/emotion.e92e314a.jpeg": "/portfolioo/static/media/emotion.e92e314a.jpeg",
+    "static/media/home-main.541f8179.svg": "/portfolioo/static/media/home-main.541f8179.svg",
+    "static/media/leaf.4c15d6eb.png": "/portfolioo/static/media/leaf.4c15d6eb.png",
+    "static/media/style.css": "/portfolioo/static/media/pre.d4812f51.svg",
+    "static/media/suicide.b72f1f9f.png": "/portfolioo/static/media/suicide.b72f1f9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbe20b59.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.442b5ec7.chunk.js",
+    "static/css/main.42f96c1a.chunk.css",
+    "static/js/main.43a3cdf9.chunk.js"
+  ]
+}
